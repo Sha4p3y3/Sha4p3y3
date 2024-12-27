@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sha4p3y3
-- 👀 I’m interested in programming, penetration testing
-- 🌱 I’m currently learning penetration testing
+- 👀 I’m interested in programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me roni.rengit@gmail.com
 
